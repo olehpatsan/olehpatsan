@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, I'm Oleh 👋
+## Glad to see you here
+🌱 I’m currently learning Data Science
 <!--
 **olehpatsan/olehpatsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
