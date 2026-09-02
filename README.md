@@ -18,8 +18,8 @@ Interested in **Machine Learning, Data Science and AI**, with hands-on experienc
 
 ## Kaggle
 
-🥈 **Orbit Wars** — Top 2.7%  
-🥈 **PTCG AI Battle Challenge** — Top 3.9%  
-🥉 **March Machine Learning Mania 2026**
+🥈 **Orbit Wars** - Top 2%  
+🥈 **PTCG AI Battle Challenge** - Top 3%  
+🥉 **March ML Mania 2026** - Top 8% 
 
-Best Playground result: **17 / 4,370 — Top 0.4%**
+Best Playground result: **17 / 4,370 - Top 0.4%**
