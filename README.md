@@ -3,7 +3,9 @@
 Final-year **Artificial Intelligence & Data Science** student at Glasgow Caledonian University.
 
 Interested in **Machine Learning, Data Science and AI**, with hands-on experience through university projects, Kaggle competitions and a Data Science internship.
+## Connect
 
+[LinkedIn](https://www.linkedin.com/in/oleh-patsan/) · [Kaggle]([YOUR_KAGGLE_LINK](https://www.kaggle.com/olehpatsan))
 ## About me
 
 - 🎓 Expected First-Class Honours, graduating in 2027
